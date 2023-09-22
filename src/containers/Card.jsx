@@ -11,7 +11,7 @@ const Card = ({ image, title, description }) => {
     <div className="bg-hover rounded-lg shadow-md overflow-hidden">
       <img
         src={image}
-        alt="Card"
+       alt="Card"
         className="w-full h-80 object-cover sm:h-64"
       />
       <div className="p-4">
