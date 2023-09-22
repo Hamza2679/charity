@@ -1,0 +1,11 @@
+.ingrdient {
+  background: #a3e635;
+  background: linear-gradient(to right, #a3e635 0%, #00ff00 50%, #365314 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.hover:hover {
+  /* Add your desired hover effect styles here */
+  background-color: #f0f0f0;
+  color: #333;
+}
